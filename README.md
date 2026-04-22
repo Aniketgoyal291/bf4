@@ -1,7 +1,7 @@
 
-  # Build it now
+# BF4
 
-  This is a code bundle for Build it now. The original project is available at https://www.figma.com/design/s89ioDiGEbuotLWpEp7tdc/Build-it-now.
+This is a code bundle for BF4. The original project is available at https://www.figma.com/design/s89ioDiGEbuotLWpEp7tdc/Build-it-now.
 
   ## Running the code
 
